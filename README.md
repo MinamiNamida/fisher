@@ -1,7 +1,4 @@
-# Tauri + React + Typescript
+# Fisher
+原本是打算是使用Tauri写一个用于做知识管理性的多维表格, 但现在卡在了Markdown的即使渲染上, 于是在想先去学习一下vditor的代码来看一看别人的即使渲染是怎么实现的.
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+目前暂时实现了对于资源管理器的选择, 能完成拖拽, 删除和新建文件, 拖拽动画还有待修正.
